@@ -1,0 +1,14 @@
+// Blackjack SCSS source */
+
+$font-main: 'Helvetica', sans-serif;
+$font-main-color: #030303;
+$font-gen: monospace;
+$font-link-color: #141000;
+
+body{
+  font: $font-main;
+  color: $font-main-color;
+}
+button a{
+  color: $font-link-color;
+}
